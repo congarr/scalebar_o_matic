@@ -1,2 +1,2 @@
 # scalebar_o_matic
-Adds a scale bar to every image in a directory and writes as a new file
+Adds a scale bar to every image in a directory and writes as new files
